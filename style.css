@@ -1,0 +1,101 @@
+#middle_div {
+  -webkit-box-shadow: -2px 10px 30px 0px rgba(171, 171, 171, 0.8);
+  -moz-box-shadow: -2px 10px 30px 0px rgba(171, 171, 171, 0.8);
+  box-shadow: -2px 10px 30px 0px rgba(171, 171, 171, 0.8);
+  max-width: 80%;
+  height: 100%;
+  margin: 0 auto;
+  padding: 0px;
+  background-color: #808080; /* Gray background color */
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #808080; /* Gray background color */
+}
+
+.wrapper {
+  margin: 0 auto;
+}
+
+.text_box {
+  box-shadow: -2px 10px 30px 0px rgba(171, 171, 171, 0.8);
+  -webkit-box-shadow: -2px 10px 30px 0px rgba(173, 173, 173, 0.8);
+  -moz-box-shadow: -2px 10px 30px 0px rgba(151, 151, 151, 0.8);
+  background-color: #f0f0f0; /* Light color for text box */
+  color: #0066cc; /* Dark blue text color */
+  padding: 1em;
+  border-radius: 20px;
+}
+
+.admin_button {
+  background-color: #f0f0f0; /* Light color for admin button */
+  color: #0066cc; /* Dark blue text color */
+}
+
+.section {
+  box-shadow: -2px 10px 30px 0px rgba(211, 211, 211, 0.8); /* Light color for section */
+  -webkit-box-shadow: -2px 10px 30px 0px rgba(211, 211, 211, 0.8);
+  -moz-box-shadow: -2px 10px 30px 0px rgba(211, 211, 211, 0.8);
+  border-radius: 20px;
+  margin-bottom: 2em;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.insert_button {
+  background-color: #c0c0c0; /* Light color for insert button */
+}
+
+h1 {
+  text-align: center;
+  color: #0066cc; /* Dark blue text color */
+}
+
+input-group-append {
+  cursor: pointer;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid rgb(153, 224, 146) !important;
+  border-radius: 5px;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  color: #0066cc; /* Dark blue text color */
+}
+
+tr:nth-child(even) {
+  background-color: #f5f5f5; /* Light color for even rows */
+  color: #0066cc; /* Dark blue text color */
+}
+
+tr:nth-child(odd) {
+  background-color: #f0f0f0; /* Light color for odd rows */
+  color: #0066cc; /* Dark blue text color */
+}
+
+th {
+  background-color: #4CAF50;
+  color: #0066cc; /* Dark blue text color */
+}
+
+.custom-navbar {
+  background-color: #c0c0c0; /* Light color for custom navbar */
+}
+
+hr {
+  height: 10px;
+  border: none;
+  background-color: #ccc;
+  margin: 20px 0;
+}
+
+h1 {
+  color: #0066cc; /* Dark blue text color */
+}
